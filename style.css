@@ -1,0 +1,12 @@
+.navbar {
+  background-color: #000000;
+  font-family: OpenSans;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
+
+}
+
+.jumbotron {
+  background-image:url(file:///Users/Stephanie/Desktop/Steph/Business/Stephanie_Williamson/Web_Dev/Projects/PYTDanceStudio/resources/dancers-photo.png);
+}
